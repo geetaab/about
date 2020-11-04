@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+.logo{
+				font-size:42px;
+				font-family: 'Caveat Brush', cursive;
+				}
+.about{
+				font-size:36px;
+				font-family: 'Caveat Brush', cursive;
+				}
+				
+html,body{
+				padding:0;
+				margin:0;
+				font-family:Poppins;
+				}
+.container {
+				padding:25px;
+				}
+p{
+				font-weight:300;
+				}
